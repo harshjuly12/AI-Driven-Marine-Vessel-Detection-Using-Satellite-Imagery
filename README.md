@@ -1,9 +1,11 @@
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/12cbdbcc-3d9a-4228-91f8-ee872bea7570" width="400" style="margin-right: 10;"></td>
+    <td><img src="https://github.com/user-attachments/assets/afb585e0-d9fb-45f1-9e57-8689596c2482" width="400" style="margin-right: 10;"></td>
     <td><h1 style="margin: 0;">Artificial Intelligence Driven Marine Vessel Detection Using Satellite Imagery</h1></td>
   </tr>
 </table>
+
+
 
 ## Project Overview
 This project focuses on building an AI-driven system for detecting marine vessels from satellite imagery. Leveraging deep learning techniques, the system analyzes satellite images to accurately identify the presence of marine vessels. This project has potential applications in maritime surveillance, illegal fishing detection, and maritime traffic management.
