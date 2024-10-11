@@ -5,8 +5,6 @@
   </tr>
 </table>
 
-
-
 ## Project Overview
 This project focuses on building an AI-driven system for detecting marine vessels from satellite imagery. Leveraging deep learning techniques, the system analyzes satellite images to accurately identify the presence of marine vessels. This project has potential applications in maritime surveillance, illegal fishing detection, and maritime traffic management.
 
